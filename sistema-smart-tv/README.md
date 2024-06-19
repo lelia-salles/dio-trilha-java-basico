@@ -1,4 +1,4 @@
-# DIO Desenvolvimentemto JAVA com IA
+# DIO Desenvolvimento JAVA com IA
 ## Java Básico
 
 Parte do curso de desenvolvimento java com IA da Digital Inovation One da aula Java Básico.
